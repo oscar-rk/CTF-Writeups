@@ -48,7 +48,7 @@ We will start enumerating the SMB port 445 trying to establish a connection in o
 <p align="center"><img src="img/3_SMBlisting.png" alt="SMB listing with null session"></img></p>
 
 We find that there is a `backups` share, so we will attempt to get into it.
-Once connected, we will list any files in the share using the command `dir` and `get` if there is any to download it to out machine.
+Once connected, we will list any files in the share using the command `dir` and `get` if there is any to download it to our machine.
 
 <p align="center"><img src="img/4_getFile.png" alt="Listing SMB directory and downloading the file"></img></p>
 

@@ -14,6 +14,7 @@ ___You can search keywords and/or topics between writeups using top left corner 
 | :---: | :---: | :---: | :---: | :---: |
 |<a href="https://app.hackthebox.com/starting-point?tier=2"><img width="50" height="50" alt="Archetype" src="/htb-machines/archetype/img/logo.png" /></a>|[Archetype](/htb-machines/archetype/Archetype.md)|<img src="/img/windows.png" width="20" height="20">|Starting Point|SMB Enumeration<br>Microsoft SQL Server RCE<br>Impacket<br>WinPEAS Windows Enumeration|
 |<a href="https://app.hackthebox.com/starting-point?tier=2"><img width="50" height="50" alt="Vaccine" src="/htb-machines/vaccine/img/logo.png" /></a>|[Vaccine](/htb-machines/vaccine/Vaccine.md)|<img src="/img/linux.png" width="20" height="20">|Starting Point|FTP Enumeration<br>Cracking hashes with John<br>SQLMAP SQL Injection<br>Abusing sudo privileges|
+|<a href="https://app.hackthebox.com/starting-point?tier=2"><img width="50" height="50" alt="Unified" src="/htb-machines/unified/img/logo.png" /></a>|[Unified](/htb-machines/unified/Unified.md)|<img src="/img/linux.png" width="20" height="20">|Starting Point|Burpsuite request manipulation<br>Log4J Exploitation (Log4Shell)<br>MongoDB collections modification|
 
 </td></tr>
 

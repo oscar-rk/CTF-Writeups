@@ -1,5 +1,7 @@
 <div align="center">
 
+⚠️⚠️⚠️ DEPRECATED: This repository is no longer in use as writeups are being moved to my webpage https://oscar-rk-com ⚠️⚠️⚠️
+
 # CTF Writeups by oscar-rk
 ___
 
